@@ -456,7 +456,7 @@ function declareWinner(userHand, dealerHand) {
 */
 
 
-
+//testar
 //min
 function Card(suit, number) {
     this.suit = suit;
